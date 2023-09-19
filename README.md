@@ -57,7 +57,7 @@ I am a software engineer with a specialization in backend development and distri
             alt="typescript" width="54" height="54" style="vertical-align:top; margin:4px;">
     </a>
     <a href="">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="54"
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="54"
             height="54" alt="angular" style="vertical-align:top; margin:4px">
     </a>
 </p>

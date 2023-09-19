@@ -83,7 +83,3 @@ I am a software engineer with a specialization in backend development and distri
 - 🥷 [mehdihadeli/go-vertical-slice-template](https://github.com/mehdihadeli/go-vertical-slice-template): A Golang boilerplate template, based on Vertical Slice Architecture and CQRS pattern with using Echo, Gorm, Zap, Viper, MediatR for CQRS and sarulabs/di for Dependency Injection.
 - 🎬 [mehdihadeli/movie-search-application](https://github.com/mehdihadeli/movie-search-application): A simple movie search app, built with .Net 7, Vertical Slice Architecture and using TMDB APIs and YouTube APIs for searching and details of the movies.
 
-<h2 align="center">🚀 Activities</h2>
-<p align="center">
-  <a href="#" alt="mehdi hadeli's github stats"><img src="https://github-readme-stats.vercel.app/api?username=mehdihadeli" /></a>
-</p>

@@ -2,8 +2,7 @@
 
 <h1 align="center">Hi there, I'm Lucas S. França 👋</h1>
 
-I am a software engineer with a specialization in backend development and distributed systems. I possess a wealth of experience in crafting robust, highly responsive, scalable, and easily maintainable systems. I excel in utilizing cutting-edge technologies, including C#, .NET, and Golang. My areas of expertise encompass microservices, system design, software architecture, domain-driven design (DDD), event sourcing, CQRS, and DevOps. My passion lies in continuous learning, knowledge sharing, and tackling complex challenges head-on.
-
+Enthusiastic software engineer with a mindset of designing and developing innovative software solutions. Thrive on solving complex problems and transforming ideas into elegant, efficient, and scalable code. Dedication to staying at the forefront of technology and commitment to continuous learning enable me to adapt to rapidly evolving tech landscapes. I'm excited to collaborate with teams that value innovation, creativity, and a relentless pursuit of excellence.
 
 <h2 align="center">🛠 Technologies & Skils</h2>
 

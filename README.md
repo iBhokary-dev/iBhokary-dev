@@ -71,3 +71,9 @@ Enthusiastic software engineer with a mindset of designing and developing innova
 
 - soon...
 
+<!--<h2 align="center">🚀 Activities</h2>
+<p align="center">
+  <a href="#" alt="iBhokary-dev's github stats"><img src="https://github-readme-stats.vercel.app/api?username=ibhokary-dev" /></a>
+</p>
+
+<!--[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/6526e454f43a58c923ba3f68?variant=dark)](https://roadmap.sh)

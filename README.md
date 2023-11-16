@@ -4,20 +4,13 @@
 
 Enthusiastic software engineer with a mindset of designing and developing innovative software solutions. Thrive on solving complex problems and transforming ideas into elegant, efficient, and scalable code. Dedication to staying at the forefront of technology and commitment to continuous learning enable me to adapt to rapidly evolving tech landscapes. I'm excited to collaborate with teams that value innovation, creativity, and a relentless pursuit of excellence.
 
-<h2 align="center">🛠 Technologies & Skils</h2>
+<h2 align="center">🛠 Technologies & Skills</h2>
 
 <p align="center">
-    <a href="">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="golang" width="54"
-            height="54" style="vertical-align:top; margin:4px;">
     </a>
     <a href="https://go.dev/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="golang"
             width="54" height="54" style="vertical-align:top; margin:4px;">
-    </a>
-    <a href="https://dotnet.microsoft.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="54"
-            height="54" alt="dotnet" style="vertical-align:top; margin:4px;">
     </a>
     <a href="">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"

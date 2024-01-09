@@ -2,59 +2,13 @@
 
 <h1 align="center">Hi there, I'm Lucas S. França 👋</h1>
 
-Enthusiastic software engineer with a mindset of designing and developing innovative software solutions. Thrive on solving complex problems and transforming ideas into elegant, efficient, and scalable code. Dedication to staying at the forefront of technology and commitment to continuous learning enable me to adapt to rapidly evolving tech landscapes. I'm excited to collaborate with teams that value innovation, creativity, and a relentless pursuit of excellence.
+I'm Lucas, a Software Developer with a passion for problem-solving and a keen interest in web development. I'm currently honing my skills in JavaScript, node, react, and devops tools as docker, ansible, basic of k8s and I'm always eager to learn more!
 
-<h2 align="center">🛠 Technologies & Skills</h2>
+In this repository, you'll find a collection of projects and exercises that I've worked on during my journey as a developer. Each project includes a brief description, the technologies used, and what I learned from the experience.
 
-<p align="center">
-    </a>
-    <a href="https://go.dev/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="golang"
-            width="54" height="54" style="vertical-align:top; margin:4px;">
-    </a>
-    <a href="">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"
-            width="54" height="54" alt="postgres" style="vertical-align:top; margin:4px">
-    </a>
-    <a href="https://www.mongodb.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="54"
-            height="54" alt="mongodb" style="vertical-align:top; margin:4px;">
-    </a>
-    <a href="">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="54"
-            height="54" alt="kubernetes" style="vertical-align:top; margin:4px;">
-    </a>
-    <a href="https://hub.docker.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="54"
-            height="54" alt="docker" style="vertical-align:top; margin:4px">
-    </a>
-    <a href="https://azure.microsoft.com">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="54" height="54"
-            alt="azure" style="vertical-align:top; margin:4px">
-    </a>
-    <a href="">
-        <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="54" height="54" alt="javascript"
-            style="vertical-align:top; margin:4px">
-    </a>
-    <a href="">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg"
-            width="64" height="64" alt="kafka" style="vertical-align:top; margin:4px;">
-    </a>
-    <a href="">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="54"
-            height="54" alt="javascript" style="vertical-align:top; margin:4px">
-    </a>
-    <a href="">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-            alt="typescript" width="54" height="54" style="vertical-align:top; margin:4px;">
-    </a>
-    <a href="https://nestjs.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="54"
-            height="54" alt="angular" style="vertical-align:top; margin:4px">
-    </a>
-</p>
+Feel free to explore, and don't hesitate to reach out if you have any questions or just want to chat about code!
 
-<br/>
+Happy coding! ⚡
 
 <h2 align="center">💻 Open Source Projects</h2>
 

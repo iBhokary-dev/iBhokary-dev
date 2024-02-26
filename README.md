@@ -1,6 +1,6 @@
 ![](assets/header.png)
 
-<h1 align="center">Hi there, I'm Lucas S. França 👋</h1>
+<h1 align="center">Hi there, I'm Lucas S. França 🪿</h1>
 
 I'm Lucas, a Software Developer with a passion for problem-solving and a keen interest in web development. I'm currently honing my skills in JavaScript, node, react, and devops tools as docker, ansible, basic of k8s and I'm always eager to learn more!
 

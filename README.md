@@ -1,8 +1,8 @@
 ![](assets/header.png)
 
-<h1 align="center">Hi there, I'm Lucas S. França 🪿</h1>
+<h1 align="center">Hi there, I'm LSF 🪿</h1>
 
-⚜️ I'm Lucas, a Software Developer with a passion for problem-solving and a keen interest in web development. I'm currently honing my skills in JavaScript, node, react, and devops tools as docker, ansible, basic of k8s and I'm always eager to learn more!
+⚜️ A Software Developer with a passion for problem-solving and a keen interest in web development. I'm currently honing my skills in JavaScript, node, react, and devops tools as docker, ansible, basic of k8s and I'm always eager to learn more!
 
 🧰 In this repository, you'll find a collection of projects and exercises that I've worked on during my journey as a developer. Each project includes a brief description, the technologies used, and what I learned from the experience.
 
